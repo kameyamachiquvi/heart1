@@ -1,1 +1,1 @@
-basic.showIcon(IconNames.Angry)
+basic.showIcon(IconNames.TShirt)
